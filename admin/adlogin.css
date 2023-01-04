@@ -1,0 +1,11 @@
+.backimg {
+    width: 100%;
+    height: 100vh;
+    /*background-color: lawngreen;*/
+    background-image: url('../photos/carousel2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
